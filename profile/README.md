@@ -1,3 +1,3 @@
 # AkumaKodo
 
-coming soon...
+- [Framework](https://github.com/AkumaKodo/AkumaKodo)
